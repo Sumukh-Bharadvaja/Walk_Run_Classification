@@ -1,11 +1,11 @@
 <h1> Walk Run Classification </h1>
 
-<h2>Ovewview </h2>
+<h2> Overview </h2>
 The analysis revolves around the classification of physical activities, specifically distinguishing between 'walk' and 'run' based on sensor data. This kind of classification is pivotal in domains such as health monitoring, sports analytics, and interactive applications, where accurately identifying the type of physical activity can lead to meaningful insights and outcomes.
 
 Here's a structured breakdown of the analysis:
 
-<h3> 1.Data Preprocessing: </h3>
+<h3> 1. Data Preprocessing: </h3>
 The sensor data, potentially from devices like accelerometers or gyroscopes, undergoes preprocessing to ensure quality and consistency. This stage may involve steps like normalization, dealing with missing values, and extracting pivotal features that effectively characterize each activity.
 
 <h3> 2. Model Development: </h3>
